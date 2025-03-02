@@ -1,0 +1,9 @@
+
+p {
+    text-align: center;
+    background-color: black;
+    color: chocolate;
+}
+.myClass {
+    border: 2px dashed rebeccapurple;
+}
